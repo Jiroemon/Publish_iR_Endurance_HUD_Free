@@ -1,5 +1,6 @@
 # Publish_iR_Endurance_HUD_Free
 A standalone fuel management HUD for iRacing.
+
 You can download the latest version from the "Releases" section on the right side of this page.
 
 --------------------------------------------------------------------------------
@@ -9,8 +10,11 @@ iR Endurance HUD
 [App Information]
 
 App Name: iR Endurance HUD
+
 Version: 1.0f (Free Version)
+
 Author: Jiro Suzuki / NEOCHI Racing
+
 Date: 2026/05/17
 
 [How to Launch]
