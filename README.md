@@ -9,28 +9,23 @@ iR Endurance HUD
 
 [App Information]
 
-App Name: iR Endurance HUD
-
-Version: 1.0f (Free Version)
-
-Author: Jiro Suzuki / NEOCHI Racing
-
-Date: 2026/05/17
+- App Name: iR Endurance HUD
+- Version: 1.0f (Free Version)
+- Author: Jiro Suzuki / NEOCHI Racing
+- Date: 2026/05/17
 
 [How to Launch]
 
 - Launch iRacing and run iR Endurance HUD.exe. (If a Windows PC protection screen appears, click "More info" and select "Run anyway".)
-
 - The HUD window and Settings window will appear.
-
 - Telemetry data on the HUD will automatically update while driving in iRacing (on-track).
 
 [Modes]
 
-・Normal (Free Version):
+- Normal (Free Version):
   - A simple layout designed for basic data display.
 
-・Advanced (Demo Only):
+- Advanced (Demo Only):
   - Allows you to compare your target fuel consumption with actual per-lap results.
 
 [Contact / Forum]
@@ -55,10 +50,10 @@ Date: 2026/05/17
 
 [アプリ情報]
 
-  アプリ名称: iR Endurance HUD 
-  バージョン：1.0f(無料版)
-  製作者: Jiro Suzuki / NEOCHI Racing
-  日付: 2026/5/17
+  - アプリ名称: iR Endurance HUD 
+  - バージョン：1.0f(無料版)
+  - 製作者: Jiro Suzuki / NEOCHI Racing
+  - 日付: 2026/5/17
 
 [起動方法]
 
